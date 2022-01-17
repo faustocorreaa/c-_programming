@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToMethods", "IntroToMethods\IntroToMethods.csproj", "{9BED7807-8183-47BB-8E49-3BBE3D4A0622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToClasses", "IntroToClasses\IntroToClasses.csproj", "{785A0FE3-CCA1-4AE8-B86E-E12AA778403B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BED7807-8183-47BB-8E49-3BBE3D4A0622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BED7807-8183-47BB-8E49-3BBE3D4A0622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BED7807-8183-47BB-8E49-3BBE3D4A0622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BED7807-8183-47BB-8E49-3BBE3D4A0622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785A0FE3-CCA1-4AE8-B86E-E12AA778403B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785A0FE3-CCA1-4AE8-B86E-E12AA778403B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785A0FE3-CCA1-4AE8-B86E-E12AA778403B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785A0FE3-CCA1-4AE8-B86E-E12AA778403B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55F7E03-B07C-49DB-AF9D-82129A44A517}
+	EndGlobalSection
+EndGlobal
